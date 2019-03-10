@@ -1,0 +1,2 @@
+S->aB|bB;
+B->aaB|abB|baB|bbB|?;
