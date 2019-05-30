@@ -1,0 +1,3 @@
+S->ABacb|ABa|b;
+A->aA|b;
+B->bB|b;

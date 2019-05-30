@@ -1,0 +1,6 @@
+S->AS|ASB|SB;
+A->XAS|XS|a;
+B->SYS|VV|XAS|XS|a;
+X->a;
+Y->b;
+V->b;

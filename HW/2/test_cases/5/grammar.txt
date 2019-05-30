@@ -1,0 +1,4 @@
+S->TaXU|aXU|TaX|aX;
+T->UU|U|abc;
+U->bSc;
+X->bT|Tc|b|c;
